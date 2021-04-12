@@ -1,0 +1,11 @@
+from,to,weight
+JH,LI,2
+JH,IA,3
+JH,FP,2
+JH,MD,2
+LI,JH,2
+IA,JH,3
+FP,JH,2
+MD,JH,2
+FB,LI,3
+LI,FB,3
